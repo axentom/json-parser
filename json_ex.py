@@ -1,5 +1,6 @@
 import json
 
+""" This is a descriptive message on what this function is and how to use it """
 def check_char_count(mystr):
 
     assert isinstance(mystr, str), 'Input to this function should be a string'
